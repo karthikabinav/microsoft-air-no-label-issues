@@ -1,13 +1,1 @@
-{
-  "AIReferenceArchitectures": 5,
-  "AirSim": 178,
-  "AirSim-Drone-Racing-Lab": 15,
-  "AirSim-Drone-Racing-Lab-Source": 2,
-  "AirSim-Drone-Racing-VAE-Imitation": 3,
-  "AirSim-NeurIPS2019-Drone-Racing": 27,
-  "AirbandData": 1,
-  "ContosoAir": 0,
-  "airflow-providers-microsoft-fabric": 3,
-  "apache-airflow-microsoft-fabric-plugin": 5,
-  "fabric-airflow-api-client-sample": 1
-}
+{"AIReferenceArchitectures": 5, "AirSim": 178, "AirSim-Drone-Racing-Lab": 15, "AirSim-Drone-Racing-Lab-Source": 2, "AirSim-Drone-Racing-VAE-Imitation": 3, "AirSim-NeurIPS2019-Drone-Racing": 27, "AirbandData": 1, "ContosoAir": 0, "airflow-providers-microsoft-fabric": 3, "apache-airflow-microsoft-fabric-plugin": 5, "fabric-airflow-api-client-sample": 1}
