@@ -1,1 +1,13 @@
-ewogICJBSVJlZmVyZW5jZUFyY2hpdGVjdHVyZXMiOiA1LAogICJBaXJTaW0iOiAxNzgsCiAgIkFpclNpbS1Ecm9uZS1SYWNpbmctTGFiIjogMTUsCiAgIkFpclNpbS1Ecm9uZS1SYWNpbmctTGFiLVNvdXJjZSI6IDIsCiAgIkFpclNpbS1Ecm9uZS1SYWNpbmctVkFFLUltaXRhdGlvbiI6IDMsCiAgIkFpclNpbS1OZXVySVBTMjAxOS1Ecm9uZS1SYWNpbmciOiAyNywKICAiQWlyYmFuZERhdGEiOiAxLAogICJDb250b3NvQWlyIjogMCwKICAiYWlyZmxvdy1wcm92aWRlcnMtbWljcm9zb2Z0LWZhYnJpYyI6IDMsCiAgImFwYWNoZS1haXJmbG93LW1pY3Jvc29mdC1mYWJyaWMtcGx1Z2luIjogNSwKICAiZmFicmljLWFpcmZsb3ctYXBpLWNsaWVudC1zYW1wbGUiOiAxCn0K
+{
+  "AIReferenceArchitectures": 5,
+  "AirSim": 178,
+  "AirSim-Drone-Racing-Lab": 15,
+  "AirSim-Drone-Racing-Lab-Source": 2,
+  "AirSim-Drone-Racing-VAE-Imitation": 3,
+  "AirSim-NeurIPS2019-Drone-Racing": 27,
+  "AirbandData": 1,
+  "ContosoAir": 0,
+  "airflow-providers-microsoft-fabric": 3,
+  "apache-airflow-microsoft-fabric-plugin": 5,
+  "fabric-airflow-api-client-sample": 1
+}
